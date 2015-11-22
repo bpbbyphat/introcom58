@@ -1,0 +1,26 @@
+<title>introcom58</title>
+<table width="1000" align="center">
+  <tr>
+    <td colspan="2" align="center"><img src="../AL/HEAD2.jpg" width="1000" height="500" /></td>
+  </tr>
+  <tr>
+    <td width="241" align="center"><p><a href="index.html"><img src="../AL/1.jpg" width="241" height="100"></a></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p><a href="main.html"><img src="../AL/2.jpg" width="241" height="100"></a></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p></td>
+    <td width="755" align="center"><img src="../AL/all.jpg" width="755" height="755" usemap="#Map"></td>
+  </tr>
+</table>
+
+<map name="Map">
+  <area shape="rect" coords="138,340,235,448" href="fon.html" target="_blank">
+  <area shape="rect" coords="274,339,372,448" href="bobby.html" target="_blank">
+  <area shape="rect" coords="400,354,501,448" href="satang.html" target="_blank">
+  <area shape="rect" coords="553,333,660,450" href="nook.html" target="_blank">
+</map>
